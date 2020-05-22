@@ -55,11 +55,11 @@
 
 #### resource:资源列表
 
-![image-20200522213153111](/Users/piwenjing/Library/Application%20Support/typora-user-images/image-20200522213153111.png)
+![image-20200522213153111](https://cdn.jsdelivr.net/gh/1392517138/imgRepository@master/image-20200522213153111.png)
 
 #### pdf:pdf列表
 
-![image-20200522213224752](/Users/piwenjing/Library/Application%20Support/typora-user-images/image-20200522213224752.png)
+![image-20200522214525536](https://cdn.jsdelivr.net/gh/1392517138/imgRepository@master/image-20200522214525536.png)
 
 #### biaobaiqiang:用于统计以往每天失物招领数量,作为调研的一部分
 
